@@ -1,3 +1,18 @@
 # odin-recipes
 My first GitHub Repos
 Hello Odin 
+
+<!DOCTYPE html>
+
+<html lang = "en">
+    <head>
+        <meta charset="uth-8">
+        <title> Odin-Recipes </title>
+    </head>
+    <body>
+        <h1> Odin Recipes </h1>
+        <a href = "recipes/burger.html"> Burger </a>
+        <a href = "recipes/salad.html"> Salad </a>
+        <a href = "recipes/smoothie.html"> Smoothie </a>
+    </body>
+</html>
